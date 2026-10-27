@@ -141,3 +141,8 @@ flowchart TD
 | **ML Engineer → MLOps** | **MLOps Specialization (Coursera)** (Phase 2) + **Complete MLOps Bootcamp** (Phase 1,3-5) |
 | **LLM Serving Specialist** | **Deploying LLMs / LLMOps Engineer Program** (Phase 4) + **Prometheus/Grafana for LLM** (Phase 5) |
 | **Hands-on distributed training** | **Raylings** (FREE, Phase 3) + **PyTorch+Ray Tutorial** (Phase 2-3) |
+
+
+## Free On-line Resources
+
+[Building Reasoning Models from the Ground Up: A Full Video Course](https://magazine.sebastianraschka.com/p/building-reasoning-models?utm_source=codenewsletter.ai&utm_medium=newsletter&utm_campaign=openai-s-new-model-halves-the-cost-of-computer-use-agents&_bhlid=083e6483ea64f02c00a58ea09ef600bd5a79f5a9)
